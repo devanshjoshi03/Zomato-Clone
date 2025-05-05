@@ -1,11 +1,14 @@
 # Zomato-Clone
 
-for frontend
+Must See Screenshot First
+
+for frontend client and Admin
 
 npm i
 npm run dev
 
 
-for backend 
+for backend Server
+
 npm init
 npm start
